@@ -11,75 +11,47 @@ export const Service = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Fullstack Developer</h3>
           </div>
           <ul className="service__list">
               <li>
                 <BiCheck  className='service__list-icon' />
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                <p>Developing a responsive fullstack web application according to users view-port</p>
               </li>
               <li>
                 <BiCheck  className='service__list-icon' />
-                < p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                < p>Developing a bug free fullstack web applications from quality assuarance experience.</p>
               </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>              
+                            
           </ul>
         </article>
 
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Frontend Development</h3>
           </div>
           <ul className="service__list">
               <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Developing a responsive website according to users view-port </p>
               </li>
               <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Developing a bug free web applications using quality assuarance experience</p>
               </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>
+            
               
           </ul>
         </article>
 
         <article className="service">
           <div className="service__head">
-            <h3>Content Creator</h3>
+            <h3>Backend Developer</h3>
           </div>
           <ul className="service__list">
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+          <li><BiCheck  className='service__list-icon' />
+              <p>Developing a responsive website according to users view-port </p>
               </li>
               <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
-              </li>
-              <li><BiCheck  className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+              <p>Developing a bug free web applications using quality assuarance experience</p>
               </li>
               
           </ul>

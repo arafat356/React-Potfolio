@@ -1,6 +1,6 @@
 import React from 'react'
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/ME2.jpg";
 import {FaAward} from "react-icons/fa";
 import {FiUsers} from "react-icons/fi";
 import {VscFolderLibrary} from "react-icons/vsc";
@@ -24,24 +24,24 @@ export const About = () => {
               <article className="about__card">
                 <FaAward className='about__icon'/> 
                 <h5>Experience</h5>
-                <small>3+ Years Working</small>
+                <small>2+ Years Working</small>
               </article>
 
               <article className="about__card">
                 <FiUsers className='about__icon'/> 
                 <h5>Clients</h5>
-                <small>400+ Worldwide</small>
+                <small>20+ Worldwide</small>
               </article>
 
               <article className="about__card">
                 <VscFolderLibrary className='about__icon'/> 
                 <h5>Projects</h5>
-                <small>150+ Completed</small>
+                <small>30+ Completed</small>
               </article>
             </div>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur non, possimus magni libero reprehenderit, reiciendis voluptatem hic voluptatibus vel quod ipsa delectus repudiandae inventore, tempore harum tenetur necessitatibus et modi.
+                Fullstack developer with over 2 years of professional working experience as quality assurance analyst
               </p>
               <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>

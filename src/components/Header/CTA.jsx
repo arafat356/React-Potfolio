@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from "../../assets/cv.pdf";
+import CV from "../../assets/Oladele-Alo.pdf";
 
 const CTA = () => {
   return (
@@ -10,4 +10,4 @@ const CTA = () => {
   )
 }
 
-export default CTA
+export default CTA;

@@ -11,45 +11,32 @@ const data = [
   {
     id:1,
     image: IMG1,
-    title:"Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization"
+    title:"Social Media ",
+    github: "https://github.com/OladeleAlo/Social_Media",
+    demo: "https://2go-reloaded.netlify.app/"
   },
   {
   id:2,
   image: IMG2,
-  title:"Charts templates & infographics in Figma",
-  github: "https://github.com",
-  demo: "https://dribble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma"
+  title:"Bitcoin Charts",
+  github: "https://github.com/OladeleAlo/btc-chart",
+  demo: "https://btc-ethdashboard.netlify.app/"
 },
 {
 id:3,
 image: IMG3,
-title:"Figma dashboard UI kit for data design web apps",
-github: "https://github.com",
-demo: "https://dribble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps"
+title:"Weather App",
+github: "https://github.com/OladeleAlo/LongLatWeatherApp",
+demo: "https://longandlatweatherapp.netlify.app/s"
 },
 {
 id:4,
 image: IMG4,
-title:"Maintaining tasks and tracking progress",
-github: "https://github.com",
-demo: "https://dribble.com/shots/16955822-Maintaining-task-and-tracking-progress"
+title:"Landing page",
+github: "https://github.com/OladeleAlo/landing-page",
+demo: "https://landingpage-viewport.netlify.app/"
 },
-{
-id:5,
-image: IMG5,
-title:"Charts template & infographics in Figma",
-github: "https://github.com",
-demo: "https://dribble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in_Figma"
-},
-{
-id:6,
-image: IMG6,
-title:"Charts templates & infographics in Figma",
-github: "https://github.com",
-demo: "https://dribble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in_Figma"
-}
+
 
 ]
 export const Portfolio = () => {
@@ -65,7 +52,7 @@ export const Portfolio = () => {
             <div className="portfolio__item-image">
               <img src = {image} alt = {title} />
             </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>{title}</h3>
             <div className="portfolio-item-cta">
               <a href={github} className='btn' target="_blank">Github</a>
               <a href={demo} className='btn btn-primary' target="_blank">Live Demo</a>

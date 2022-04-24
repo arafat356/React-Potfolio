@@ -41,7 +41,7 @@ export const About = () => {
             </div>
 
               <p>
-                Fullstack developer with over 2 years of professional working experience as quality assurance analyst
+                Junior Fullstack developer with over 2 years of professional working experience as quality assurance analyst,developing bug free efficient bug free web applications that meets user requirements uisng the experience garnered as a software tester.
               </p>
               <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>

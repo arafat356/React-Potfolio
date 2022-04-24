@@ -23,12 +23,13 @@ const data = [
   demo: "https://btc-ethdashboard.netlify.app/"
 },
 {
-id:3,
-image: IMG3,
-title:"Weather App",
-github: "https://github.com/OladeleAlo/LongLatWeatherApp",
-demo: "https://longandlatweatherapp.netlify.app/s"
-},
+  id:3,
+  image: IMG6,
+  title:"Ecommerce App",
+  github: "https://github.com/OladeleAlo/Ecommerce-Dashboard",
+  demo: "https://app.netlify.com/sites/dailytodo-task/overview"
+  },
+
 {
 id:4,
 image: IMG4,
@@ -36,6 +37,21 @@ title:"Landing page",
 github: "https://github.com/OladeleAlo/landing-page",
 demo: "https://landingpage-viewport.netlify.app/"
 },
+{
+  id:5,
+  image: IMG5,
+  title:"Daily Todo List",
+  github: "https://github.com/OladeleAlo/DailyTaskTodo/tree/master",
+  demo: "https://landingpage-viewport.netlify.app/"
+  },
+  {
+    id:6,
+    image: IMG3,
+    title:"Weather App",
+    github: "https://github.com/OladeleAlo/LongLatWeatherApp",
+    demo: "https://longandlatweatherapp.netlify.app/s"
+    },
+
 
 
 ]
